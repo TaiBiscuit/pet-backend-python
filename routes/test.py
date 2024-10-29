@@ -6,4 +6,4 @@ def hello_world():
 
 @app.route("/register")
 def register_user():
-    return "null"
+    return "Test!"
